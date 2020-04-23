@@ -8,7 +8,7 @@ typedef struct palavra
 {
     char palavra[30];
     char tema[30];
-}Pal;
+} Pal;
 
 /*
  * Função para randomizar uma nova palavra
