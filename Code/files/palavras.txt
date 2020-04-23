@@ -1,0 +1,9 @@
+abacate|fruta
+cenoura|legume
+frango|ave
+mamao|fruta
+alface|verdura
+quiabo|legume
+aguia|ave
+maca|fruta
+uva|fruta
