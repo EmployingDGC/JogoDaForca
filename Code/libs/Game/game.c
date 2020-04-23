@@ -23,3 +23,4 @@ Bool randPal(Pal *p, char *f_name)
 {
 
 }
+
